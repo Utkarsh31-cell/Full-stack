@@ -1,0 +1,12 @@
+we are going to use
+
+->   Reactjs which is javascript               {as we know when we compile typescript it gives javascript}
+
+
+-> Atomic structure 	 
+->Design system : MUI 
+
+->state management : zustand or redux mp (most probably zustand)
+->folder structure atomic wrapped with components
+
+   

@@ -1,0 +1,20 @@
+we are going to use
+
+->Springboot version 3.2.5 
+
+->having postgresql as library
+
+->spring web
+
+->lambok
+
+->eureka client discovery 
+
+
+->openfeign 
+
+
+
+
+ 
+   
