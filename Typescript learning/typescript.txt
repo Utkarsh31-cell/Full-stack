@@ -1,0 +1,28 @@
+Shri Ganeshay Namah :
+
+Typescript : Typescript is programming language written over Javascript.
+
+ It basically focus on determining errors at compile time instead at runtime which is happend in javascript.
+
+When we compiled typescript it gives javascript which then run and give result.
+
+Ultimately everything is javascript but defining one extra thing which is behaviour in typescript which help in determining errors and writing code in better manner with javascript with the help of Typescript.
+==============================================================================================================================================
+
+Typescript : Only one job why do we use for typescript is static checking.
+
+Static checking : whenever we are writing the code the parser of the code is continuously analyzed by IDE.
+
+While in javascript it is not done at compile time. It is done at runtime which i discussed above. When it is executed at browser or at node ide then it shows error.
+
+==============================================================================================================================================
+TS -> .ts or .tsx is extension of file for Typescript.
+
+
+TS  ->  JS 
+
+TS (typescript) -> It's developement tool. Your project is completey done in javascript. Because it still run the JS(javascript).
+
+Link for transpiling or compiling : -> https://www.typescriptlang.org/
+
+Typescript : it is for type safety for avoiding errors.
